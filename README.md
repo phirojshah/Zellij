@@ -83,4 +83,4 @@ Zellij is licensed under the MIT License. See the LICENSE file for more details.
 ## Contact
 For any questions, issues, or contributions, feel free to reach out:
 
-GitHub: <a>https://github.com/phirojshah </a>
+GitHub: <a>/phirojshah </a>
