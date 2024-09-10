@@ -33,7 +33,7 @@ Zellij is a terminal workspace designed to maximize productivity and workflow ef
 
 To install Zellij, follow these steps:
 
-1. **Install Zellij
+1. Install Zellij
 ```
 sudo apt install Zellij
 
@@ -46,7 +46,7 @@ sudo apt install Zellij
    git clone https://github.com/phirojshah/Zellij.git .config/zellij
    ```
 
-3. **Simply type Zellij in terminal
+3. Simply type zellij in terminal
 
 ```
 zellij
@@ -69,13 +69,13 @@ Ctrl - q: Close all (exit Zellij)
 
 Contributions to Zellij are welcome! To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch-name).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch-name).
-Open a pull request.
-Please ensure that your code follows the project's coding standards and passes all tests.
+- **Fork the repository.**
+- **Create a new branch (git checkout -b feature-branch-name).**
+- **Make your changes.**
+- **Commit your changes (git commit -m 'Add some feature').**
+- **Push to the branch (git push origin feature-branch-name).**
+- **Open a pull request.**
+- **Please ensure that your code follows the project's coding standards and passes all tests.**
 
 ## License
 Zellij is licensed under the MIT License. See the LICENSE file for more details.
@@ -83,4 +83,4 @@ Zellij is licensed under the MIT License. See the LICENSE file for more details.
 ## Contact
 For any questions, issues, or contributions, feel free to reach out:
 
-GitHub: phirojshah
+GitHub: <a>https://github.com/phirojshah </a>
