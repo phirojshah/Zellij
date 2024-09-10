@@ -51,4 +51,36 @@ sudo apt install Zellij
 ```
 zellij
 ```
+## Key Bindings
+```
+Ctrl - p -n: Pane operation
+C - p -x: Pane close
+C -t -n: Tab open
+C -t -x: Tab close
+Alt - 1,2,3,4,5 …: Tab switch
+Alt H, L: Left-right switch
+Alt + , -: Resize
+C -p -h: Pane right
+C-p-d: Pane down
+C - q: Close all (exit Zellij)
+```
 
+## Contributing
+
+** Contributions to Zellij are welcome! To contribute:
+
+**hFork the repository.
+**Create a new branch (git checkout -b feature-branch-name).
+**Make your changes.
+**Commit your changes (git commit -m 'Add some feature').
+**Push to the branch (git push origin feature-branch-name).
+**Open a pull request.
+**Please ensure that your code follows the project's coding standards and passes all tests.
+
+## License
+Zellij is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any questions, issues, or contributions, feel free to reach out:
+
+GitHub: phirojshah
